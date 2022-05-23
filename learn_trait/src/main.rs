@@ -16,14 +16,14 @@ fn main() {
     my_print2(&t);
 }
 
-// trait 作为参数
+// params has traits 
 fn my_print<T: Summary + Another>(item: &T) {
     println!("print:");
     println!("{}", item.summarize());
     item.func();
 }
 
-// use where
+// use "where"
 fn my_print1<T>(item: &T)
 where
     T: Summary + Another,
@@ -33,7 +33,7 @@ where
     item.func();
 }
 
-// 语法糖
+// another way
 fn my_print2(item: &(impl Summary + Another)) {
     println!("print2:");
     println!("{}", item.summarize());
