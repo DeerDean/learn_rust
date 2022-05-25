@@ -2,6 +2,7 @@ use std::env;
 use std::error::Error;
 use std::fs;
 
+
 pub struct Config {
     pub query: String,
     pub filename: String,
@@ -32,6 +33,7 @@ impl Config {
     }
 }
 
+
 pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     let contents = fs::read_to_string(config.filename)?;
     // println!("\nWith text:\n{}", contents);
@@ -45,7 +47,6 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     for line in results {
         println!("{}", line);
     }
-
     Ok(())
 }
 
