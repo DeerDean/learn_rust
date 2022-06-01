@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "mac",
+    "mac/mac_derive",
+    "main",
+]
