@@ -1,0 +1,10 @@
+/Users/dean/MyGitHub/learn_rust/Programming_Rust/mandelbrot/target/debug/deps/rustc_serialize-da1130a0e8781258.rmeta: /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/lib.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/serialize.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/collection_impls.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/base64.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/hex.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/json.rs
+
+/Users/dean/MyGitHub/learn_rust/Programming_Rust/mandelbrot/target/debug/deps/rustc_serialize-da1130a0e8781258.d: /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/lib.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/serialize.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/collection_impls.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/base64.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/hex.rs /Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/json.rs
+
+/Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/lib.rs:
+/Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/serialize.rs:
+/Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/collection_impls.rs:
+/Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/base64.rs:
+/Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/hex.rs:
+/Users/dean/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rustc-serialize-0.3.24/src/json.rs:
