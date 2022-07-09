@@ -27,7 +27,7 @@ impl Area for Triangle {
 
 impl Area for Rectangle {
     fn get_area(&self) -> f32 {
-        self.width * self.height / 2.0
+        self.width * self.height
     }
 }
 
